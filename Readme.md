@@ -13,6 +13,7 @@ etc. up to 999,999,999 without using a tokenizer, or any external libraries.
 
 
 As a pointer on what we would be looking for in the app: 
+
 1. Test Driven Development
 2. clear separation of concerns
 3. well defined objects / interfaces
@@ -22,7 +23,9 @@ As a pointer on what we would be looking for in the app:
 
 
 As a pointer on what we would be looking for in the app:
-1) application of good OO design principles to solve the problem
-2) well tested code
-3) well refactored code
+
+1. application of good OO design principles to solve the problem
+2. well tested code
+3. well refactored code
+
 A procedural approach to this code is strongly discouraged.
